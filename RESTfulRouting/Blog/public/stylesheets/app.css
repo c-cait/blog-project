@@ -1,0 +1,18 @@
+i.icon {
+    font-size: 2em;
+    /* double the size of the parent & i tags with the class icons */
+}
+
+.container.main {
+    margin-top: 7.0em;
+}
+
+#delete {
+    display: inline;
+}
+
+.signature {
+    font-size: 15px;
+    margin-top: 200px;
+    text-align: center;
+}
